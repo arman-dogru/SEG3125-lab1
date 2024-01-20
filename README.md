@@ -31,9 +31,3 @@ Due to a complication with group assignments, this lab was completed individuall
 ## Acknowledgements
 Special thanks to the course instructors and TAs for their guidance and support throughout this lab.
 
-## Contact
-- Arman Doğru - [Your Email]
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-
